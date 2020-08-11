@@ -2,7 +2,7 @@
 
 ### I'm Alexandre Magalhães
 
-I'm a software engineer. I programming C and VHDL languages for Digital Tv (ISDB and ATSC) equipments. 
+I'm a software engineer. I code in C and VHDL/Verilog languages for Digital Tv (ISDB and ATSC) equipments. 
 I am an enthusiast for learning new technologies. Losing hours of sleep while programming is a real hoby.
 
 #### A little more about me... 
