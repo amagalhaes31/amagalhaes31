@@ -18,11 +18,5 @@ I am an enthusiast for learning new technologies. Losing hours of sleep while pr
 |---|---|---|---|
 
 
-**Languages and Tools:**
- <br>
- <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
- <code><img width="10%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
- <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
- <br/> 
   
 <img src="https://komarev.com/ghpvc/?username=amagalhaes31" alt="amagalhaes31" />
