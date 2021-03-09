@@ -7,8 +7,8 @@ I am an enthusiast for learning new technologies. Losing hours of sleep while pr
 
 #### A little more about me... 
 
-- 🔭 I’m currently working on Digital TV at [Hitachi Kokusai Linear](https://www.hitachi-linear.com.br/).
-- 🌱 I’m currently learning about Android Development, Kotlin, API Rest, IoT and Java. 
+- 🔭 I’m currently working on Digital TV at [JFL Alarmes](https://jflalarmes.com.br/).
+- 🌱 I’m currently learning about Internet of Things using the ESP32. 
 - 👯 I’m looking to collaborate on Mobile applications and Internet of Things.
 - 💬 Ask me about Internet of Things, Digital TV, Economy and Stock Market.
 - ⚡ Fun fact: "Your habits will determine your future" by Jack Canfield (American author).
