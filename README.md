@@ -2,7 +2,7 @@
 
 ### :man: I'm Alexandre Magalhães from <img src="https://media.giphy.com/media/L1RCuTvmJILT2/giphy.gif" width="42px">
 
-I'm a software engineer. I code in C, C++ and VHDL/Verilog languages for Digital Tv (ISDB and ATSC) equipment. 
+I'm an eletronic engineer. I code in C and C++ for microcontrollers (ESP32, PIC, ARM LPC/STM) and VHDL/Verilog for Digital Tv (ISDB and ATSC) equipment. 
 I am an enthusiast for learning new technologies. Losing hours of sleep while programming is a real hobby.
 
 #### A little more about me... 
