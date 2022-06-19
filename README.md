@@ -1,6 +1,6 @@
-### 👋 Hello World !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+### 👋 Hello World !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="2px">
 
-### :man: I'm Alexandre Magalhães from <img src="https://media.giphy.com/media/L1RCuTvmJILT2/giphy.gif" width="42px">
+### :man: I'm Alexandre Magalhães from <img src="https://media.giphy.com/media/L1RCuTvmJILT2/giphy.gif" width="2px">
 
 I'm an eletronic engineer. I code in C/C++ for microcontrollers such as ESP32, PIC, ARM LPC/STM and VHDL/Verilog for FPGAs from Altera/Intel. 
 I'm an enthusiast for learning new technologies. Losing hours of sleep while programming is a real hobby.
