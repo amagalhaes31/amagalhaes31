@@ -6,7 +6,7 @@ I'm an enthusiast for learning new technologies. Losing hours of sleep while pro
 
 #### A little more about me... 
 
-- 🔭 I’m currently working on Alarm System at [JFL Alarmes](https://jflalarmes.com.br/).
+- 🔭 I’m currently working on Broadcasting System at [Hitachi Linear](https://www.hitachi-linear.com.br/).
 - 🌱 I’m currently learning about Internet of Things using the ESP32. 
 - 👯 My professional experiences are Digital TV (ISDB-Tb) and embedded systems.
 - 💬 Ask me about Internet of Things, Digital TV, Economy and Stock Market.
