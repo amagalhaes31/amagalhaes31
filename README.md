@@ -8,7 +8,7 @@ I'm an enthusiast for learning new technologies. Losing hours of sleep while pro
 
 - 🔭 I’m currently working on Broadcasting System at [Hitachi Linear](https://www.hitachi-linear.com.br/).
 - 🌱 I’m currently learning about Internet of Things using the ESP32. 
-- 👯 My professional experiences are Digital TV (ISDB-Tb) and embedded systems.
+- 👯 My professional experiences are Digital TV (ISDB-Tb/ATSC 1.0) and embedded systems.
 - 💬 Ask me about Internet of Things, Digital TV, Economy and Stock Market.
 - ⚡ Fun fact: "Your habits will determine your future" by Jack Canfield (American author).
 - 📫 How to reach me: 
